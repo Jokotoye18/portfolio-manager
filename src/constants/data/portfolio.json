@@ -1,0 +1,79 @@
+[
+  {
+    "purchaseId": 1,
+    "coin": "ETH",
+    "unit": 0.27,
+    "cost": 780,
+    "percentageToSellAt": 25
+  },
+  {
+    "purchaseId": 2,
+    "coin": "GAS",
+    "unit": 30,
+    "cost": 455,
+    "percentageToSellAt": ""
+  },
+  {
+    "purchaseId": 3,
+    "coin": "VET",
+    "unit": 500,
+    "cost": 45,
+    "percentageToSellAt": ""
+  },
+  {
+    "purchaseId": 4,
+    "coin": "GAS",
+    "unit": 10,
+    "cost": 250,
+    "percentageToSellAt": 15
+  },
+  {
+    "purchaseId": 5,
+    "coin": "OXT",
+    "unit": 1000,
+    "cost": 1200,
+    "percentageToSellAt": ""
+  },
+  {
+    "purchaseId": 6,
+    "coin": "ETH",
+    "unit": 0.5,
+    "cost": 1000,
+    "percentageToSellAt": ""
+  },
+  {
+    "purchaseId": 7,
+    "coin": "BTC",
+    "unit": 1,
+    "cost": 13000,
+    "percentageToSellAt": 50
+  },
+  {
+    "purchaseId": 8,
+    "coin": "DOT",
+    "unit": 4,
+    "cost": 400,
+    "percentageToSellAt": 80
+  },
+  {
+    "purchaseId": 9,
+    "coin": "ADA",
+    "unit": 500,
+    "cost": 800,
+    "percentageToSellAt": ""
+  },
+  {
+    "purchaseId": 10,
+    "coin": "UNI",
+    "unit": 2,
+    "cost": 30,
+    "percentageToSellAt": 10
+  },
+  {
+    "purchaseId": 11,
+    "coin": "FIL",
+    "unit": 1,
+    "cost": 250,
+    "percentageToSellAt": 80
+  }
+]
